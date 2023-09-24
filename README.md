@@ -1,1 +1,1 @@
-# service_propertie
+# service_properties
